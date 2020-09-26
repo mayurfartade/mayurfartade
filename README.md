@@ -11,4 +11,4 @@
 - 😄 NickName: **Sonu**
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mayurfartade)
+![Github stats](https://github-readme-stats.vercel.app/api?username=mayurfartade&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515)
